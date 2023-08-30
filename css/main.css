@@ -450,6 +450,10 @@ main + aside p:last-child {
   margin: 0;
 }
 
+main + aside a:not([class]) {
+  color: var(--color-primary);
+}
+
 @media only screen and (min-width: 45em) {
   main > section {
     padding-top: 2.25rem;
