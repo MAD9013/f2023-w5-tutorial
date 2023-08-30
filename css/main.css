@@ -1131,8 +1131,6 @@ code {
 
 .card__title {
   font-size: 1.266rem;
-  font-size: 1.563rem;
-  font-size: 1.777rem;
 }
 @media only screen and (min-width: 45em) {
   .card__title {
